@@ -1,0 +1,25 @@
+
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济图书馆</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>文榷雅集|书香寻味，济美芳华
+  </view>
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_m1ce73638.jpg"></image>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;书香寻味，济美芳华，“三八”国际劳动妇女节当天，嘉定校区党工委、工会、图书馆、艺术与传媒学院、汽车学院联合主办，在嘉定校区图书馆十四楼文榷堂举办文化沙龙，以海派插花、生活茶道和木版水印藏书票体验为嘉定校区女教职工带来一场别开生面的节日文化大餐。
+</text> 
+ <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_4bda4c42.jpg"></image>
+ <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;插花作为一种文化活动，由来已久，它以植物为主要素材，经过艺术加工，被赋予文化内涵，形成了一门独特的艺术，被归类中国传统美术和技艺。与书法和绘画这种平面艺术不同，插花艺术的表现更为立体；与雕塑和建筑等立体艺术不同，插花艺术更有生命的气息。四季花道首席花道教师、同济大学特聘教师、海派插花非遗传承人、同济大学博物馆展陈设计师魏语萱从插花简史、插花风格、基本原理、插花分类、工具器皿和插制技巧几个方面跟参加活动的女教师进行了交流，并现场示范，教大家制作了精美的插花作品。
+</text>
+<image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_4b6b20ca.jpg"></image>
+<text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;国家级一级茶艺技师、国家级一级评茶师、2019年 “名茶进名校”茶艺普及与培训创办人高颖则与参加活动的女教职工以“一盏香茗品风华”为题进行深入交流，通过茶叶品评技法和艺术、操作手段的鉴赏以及品茗美好环境的领略等内容，与女教师一起领略传统茶文化“借茶生悟，借茶修为，以茶养德，以茶养心”的魅力。</text>
+<image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_m7c7069e4.jpg"></image>
+<text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;除此之外，文榷堂还为参加活动的女教职工提供了“十竹斋”木版水印藏书票印制体验，让老师们通过自己制作，领略中国非物质文化传统技艺的清雅精妙。
+  &nbsp;&nbsp;中华文化源远流长，印刷术久负盛名。中国印刷术起于隋唐，兴于宋元，盛于明朝，对西方文明产生过重大影响。明末“十竹斋”创办人胡正言在雕版印刷、活字印刷基础上，以饾版、拱花等多色套印技法，将木版水印技艺推向极致。20世纪30年代，鲁迅与郑振铎耗时7年编印《十竹斋笺谱》，使一度销声匿迹的十竹斋木版水印重放异彩。2020年文榷堂举办“匠心神韵——国家级非物质文化遗产十竹斋木版水印艺术作品展”，邀请国家级非物质文化遗产代表性项目代表性传承人、杭州十竹斋艺术馆馆长魏立中先生创作了同嘉石刻、仰望星空、学海泛舟、开卷书香、礼堂济忆、继往开来六张藏书票，以传统艺术形式和大学文化的碰撞，表现了木版水印技艺画、刻、印过程中的精妙与典雅。</text>
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_785980bb.jpg"></image>
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;一枝春欲放，茶香透竹丛，水印播文明，“以黑夜等待黎明，以爱与美的灵魂为人生，以一种不朽的善良，为所有生命冶炼，圆美的奇葩”，祝愿所有女士永远保有爱与美的心魂。</text>
+</view>
+</scroll-view>

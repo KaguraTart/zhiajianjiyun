@@ -1,0 +1,41 @@
+/* pages/news/news.wxss */
+.img1{width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -99999
+  }
+  .img1 image {
+  width: 100%;
+  height: 100%;
+  }
+.x1{color:black;
+  background-color:rgba(118, 216, 255, 0.8);
+  display:flex;
+  justify-content: center;        
+  align-items: center ; }
+  .banner{height: 248px;}
+  .word1{                 
+    justify-content: center;
+    margin: 10px;
+    height: 240rpx;
+    width: 85%;
+  border: 10px solid rgb(238, 250, 255,0.5);
+    background: rgba(118, 216, 255,0.5);font-size: small;}
+  .wordd{background: rgb(247, 214, 214);
+  }
+  .img1{width: 100%;
+    height: 100%;
+    position: absolute;
+    z-index: -99999}
+    .img1 image {
+    width: 100%;
+    height: 100%;}
+  
+  .tu2{width: 680rpx; height: 312rpx; }
+  .tushezhi{display:flex;                 
+    justify-content: center;}
+  .biaoti{font-size: large;}
+
+.video1{position: relative;
+  display:flex;                 
+  justify-content: center;}

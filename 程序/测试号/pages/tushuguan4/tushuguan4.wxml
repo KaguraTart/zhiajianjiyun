@@ -1,0 +1,20 @@
+
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济图书馆</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>体验非遗魅力，感受别样精彩——图书馆工会举行“三八”国际妇女节庆祝活动
+  </view>
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/12/650/xiw1zorgdem2opa.jpg"></image>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;桃花开，燕归来。春暖花开时节，我们迎来了第111个“三八”国际妇女节。节日当天，图书馆工会组织女性职工前往松江区叶榭镇开展“叶榭软糕”制作活动，以此庆祝“三八”妇女节，体验非遗文化，感受非遗魅力。活动共有50人参与。
+    &nbsp;&nbsp;“叶榭软糕”是上海米糕的起源，始于明万历元年1573年，2011年被列为上海非物质文化遗产。“九峰三泖，云间稻粒，叶家水榭，有米是吉。”“叶榭软糕”秉承古法工艺，并在传统工艺的基础上进行突破和创新，将活字印刷与软糕制作完美结合，赋予了米糕更多的寓意和乐趣，历代受人喜爱，是江南稻作文化的杰出代表之一。软糕制作包括覆粉、压坑、填酱、翻转、脱模等程序，在聚精会神地听完讲解后，大家都跃跃欲试，并在工作人员的帮助下兴致勃勃地开始了自己的创作，展示了各自的风采。
+</text> 
+<image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/12/650/xiw1zorgdem2opa.jpg"></image>
+ <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/12/650/hsr17m4gxcabdzc.jpg"></image>
+ <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;本次妇女节庆祝活动使大家在浓浓的生活气息中体验了非遗文化，带来了不一样的感受，是一次欢乐的体验。习近平总书记指出，实现党和国家发展的宏伟蓝图，需要包括妇女在内的全体中华儿女共同奋斗。“她力量”已成为时代发展不可或缺的力量，愿每位女性都能绽放自己的光华，撑起新时代的“半边天”。
+</text>
+</view>
+</scroll-view>

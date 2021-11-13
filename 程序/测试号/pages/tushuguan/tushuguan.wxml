@@ -1,0 +1,119 @@
+<!--pages/tushuguan/tushuguan.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+  <view class="x1">同济大学图书馆</view>
+
+<swiper indicator-dots="true"  class="banner">
+  
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/tushuguan1/tushuguan1">
+  <view class="tushezhi">
+    
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2020/9/8/650/vo2jvimgvhyq80f.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+</view>
+<view class="word1"  hover-class="wordd" > <view class="biaoti">常态化疫情防控期同济大学图书馆开放须知</view>
+为满足在校师生的教学、科研、学习需求，图书馆自2020年9月8日起全面恢复正常开放时间，即四平路校区图书馆、嘉定校区图书馆、沪北校区图书馆每天开放时间为7:30—22:30，德文图书馆每天开放时间为8:00—22:00。9月14日起沪西校区图书馆正式开馆，每天开放时间为7:30—22:30。
+</view>
+</navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/tushuguan2/tushuguan2">
+  <view class="tushezhi">
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/15/650/zxasz3ygqci7073.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">文榷讲堂 | 讲座预告：雕塑造型艺术</view>
+  三十多年来，刘秀兰教授在悉心指导本科生教学和研究生雕塑教学的同时，创作了很多优秀作品，获得诸多国内外奖项，如纪念毛泽东同志60周年全国美术作品展优秀奖、联合国教科文组织第43届国际陶艺大会学术交流优秀作品展优秀奖（最高奖）等。作品被上海世博会中国国家馆贵宾厅等多家博物馆、大学名校、美协、澳大利亚以及东南亚文化机构及艺术中心等收藏，并有多篇论文
+</view>
+  </navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/tushuguan3/tushuguan3">
+  <view class="tushezhi">
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/12/650/dymhgkf9m46zhkw.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">创新课题的文献调研与综述写作</view>
+  小伙伴们， 距离国创、上创、SITP课题申请书提交的时间越来越近了！
+听说“数学建模”大赛校内赛也即将开始了！
+除了上述之外，大学期间还有各种创新科研比赛机会，“挑战杯”、“互联网+”、“方程式赛车”……
+不少同学早已摩拳擦掌，也有不少同学心向往之
+</view>
+  </navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/tushuguan4/tushuguan4">
+  <view class="tushezhi">
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/12/650/hsr17m4gxcabdzc.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">图书馆工会举行“三八”国际妇女节庆祝活动</view>
+  桃花开，燕归来。春暖花开时节，我们迎来了第111个“三八”国际妇女节。节日当天，图书馆工会组织女性职工前往松江区叶榭镇开展“叶榭软糕”制作活动，以此庆祝“三八”妇女节，体验非遗文化，感受非遗魅力。活动共有50人参与。
+</view>
+  </navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/tushuguan5/tushuguan5">
+  <view class="tushezhi">
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/9/source/1615273120_html_4b6b20ca.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">文榷雅集|书香寻味，济美芳华</view>
+  书香寻味，济美芳华，“三八”国际劳动妇女节当天，嘉定校区党工委、工会、图书馆、艺术与传媒学院、汽车学院联合主办，在嘉定校区图书馆十四楼文榷堂举办文化沙龙，以海派插花、生活茶道和木版水印藏书票体验为嘉定校区女教职工带来一场别开生面的节日文化大餐。
+</view>
+  </navigator>
+</swiper-item>
+
+</swiper>
+
+<view class="block"  style="width: 750rpx; height: 554rpx; display: block; box-sizing: border-box">
+<view class="block1" style="position: relative; left: 22rpx; top: 64rpx; width: 380rpx; height: 120rpx; display: block; box-sizing: border-box">
+  <view class="wenzi">
+    四平校区图书馆
+  </view>
+  <view class="num" style="width: 298rpx; height: 50rpx; display: block; box-sizing: border-box">
+    在馆人数:1415/3153
+  </view>
+</view>
+<view class="block2" style="width: 380rpx; height: 120rpx; display: block; box-sizing: border-box; position: relative; left: 22rpx; top: 271rpx">
+  <view class="wenzi">
+    沪北校区图书馆
+  </view>
+  <view class="num">
+    在馆人数:139/194
+  </view>
+</view>
+<view class="block3" style="position: relative; left: 22rpx; top: -17rpx; width: 380rpx; height: 120rpx; display: block; box-sizing: border-box">
+  <view class="wenzi">
+    嘉定校区图书馆
+  </view>
+  <view class="num">
+    在馆人数:1449/2800
+  </view>
+</view>
+<view  style="width: 282rpx; height: 71rpx; display: block; box-sizing: border-box" class="t2">
+  <image src="/images/weibo.png" class="tupian" style="position: relative; left: 446rpx; top: -300rpx; width: 242rpx; height: 202rpx; display: inline-block; box-sizing: border-box">
+  </image> </view>
+<view class="tupian">
+  <image src="/images/weixin.png" class="tupian" style="position: relative; left: 448rpx; top: -125rpx; width: 242rpx; height: 202rpx; display: inline-block; box-sizing: border-box"></image>
+</view>
+</view>

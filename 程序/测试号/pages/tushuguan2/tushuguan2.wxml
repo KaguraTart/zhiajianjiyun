@@ -1,0 +1,17 @@
+
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济图书馆</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>雕塑造型艺术
+  </view>
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2021/3/15/650/zxasz3ygqci7073.jpg"></image>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;刘秀兰，当代著名陶艺雕塑家，同济大学建筑与城市规划学院教授。上海市美术家协会会员、上海市中国陶瓷艺术家协会理事、中国美术家协会会员、中国雕塑学会会员、中国陶瓷工业协会陶瓷艺术委员会常务理事、中国工业协会陶瓷设计专业委员会委员。
+    &nbsp;&nbsp;三十多年来，刘秀兰教授在悉心指导本科生教学和研究生雕塑教学的同时，创作了很多优秀作品，获得诸多国内外奖项，如纪念毛泽东同志60周年全国美术作品展优秀奖、联合国教科文组织第43届国际陶艺大会学术交流优秀作品展优秀奖（最高奖）等。作品被上海世博会中国国家馆贵宾厅等多家博物馆、大学名校、美协、澳大利亚以及东南亚文化机构及艺术中心等收藏，并有多篇论文发表于国内外重要专业期刊和杂志上。曾在中央电视台、上海教育电视台、上海电视台纪实频道、日本NHK等电视台进行专题报道，并出版 《刘秀兰作品集》《走进陶艺》《雕塑与建筑和环境》《泥·韵》和《紫·韵》等著作。曾获得上海市同济大学记功荣誉、上海建筑装饰集团教育奖励金，米兰伦巴第大区文化教育部主任瓦伦蒂纳•阿布蕾颁发的纪念奖章，2018年同济大学卓越女性文化传承创新奖等。
+</text> 
+ 
+</view>
+</scroll-view>

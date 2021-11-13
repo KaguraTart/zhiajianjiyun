@@ -1,0 +1,17 @@
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济要闻</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>家乡村振兴局来函感谢同济大学为脱贫攻坚作出的突出贡献，希望共同为全面推进乡村振兴接续奋
+  </view>
+<video src="https://www.bilibili.com/6c25b52a-b73d-4a92-b375-0b9c82b9a521" class="video2" style="width: 750rpx; height: 427rpx; display: inline-block; box-sizing: border-box; position: relative; left: 0rpx; top: 0rpx"></video>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;3月15日，我校收到国家乡村振兴局发来的感谢信，来函感谢我校为如期完成脱贫攻坚目标任务作出的突出贡献，希望我校为全面推进乡村振兴、巩固拓展脱贫攻坚成果接续奋斗。
+    &nbsp;&nbsp;信中这样写道，2月25日，习近平总书记在全国脱贫攻坚总结表彰大会上庄严宣告，经过全党全国各族人民共同努力，我国脱贫攻坚战取得了全面胜利，完成了消除绝对贫困的艰巨任务，创造了又一个彪炳史册的人间奇迹。脱贫攻坚战的胜利，离不开同济大学的支持帮助，凝聚着同济大学干部职工的心血汗水。8年来，同济大学认真贯彻落实党中央脱贫攻坚决策部署，举全校之力支持脱贫攻坚，尽锐出战、担当作为，领导同志身体力行，各级干部倾力奉献，广大教职工热情参与，为如期完成脱贫攻坚目标任务作出了突出贡献。向同济大学表示衷心感谢并致以崇高敬意！
+    &nbsp;&nbsp;来函表示，根据中央决定，国务院扶贫办重组为国家乡村振兴局，作为农业农村部管理的国家局，主要负责巩固拓展脱贫攻坚成果、统筹推进实施乡村振兴战略有关具体工作。希望同济大学一如既往关心支持，共同为全面推进乡村振兴、巩固拓展脱贫攻坚成果接续奋斗。
+</text> 
+  
+</view>
+</scroll-view>

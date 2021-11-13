@@ -1,0 +1,15 @@
+<!--pages/rili/rili.wxml-->
+
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">校园班车</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>四平到嘉定班车
+  </view>
+  <image src="https://pic4.zhimg.com/80/v2-368060b8ac28bb21c8b0696c571a0347_720w.jpg" class="im" mode="widthFix"></image>
+  <view class="tt"><text class="t1"></text>教师班车
+  </view>
+  <image src="https://pic4.zhimg.com/80/v2-fb29293c548c5f7ec7d15dc35fe4c943_720w.jpg" class="im" mode="widthFix"></image>
+</scroll-view>

@@ -1,0 +1,20 @@
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济要闻</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>同济大学举行党委中心组（扩大）专题报告会，传达学习全国两会精神</view>
+<video src="https://news.tongji.edu.cn/__local/6/52/B2/78350F82F83BFC18EC2E45EF2B0_38386EB5_4FB9A44.mp4?e=.mp4" class="video2" style="width: 750rpx; height: 427rpx; display: inline-block; box-sizing: border-box; position: relative; left: 0rpx; top: 0rpx"></video>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;3月16日下午，同济大学举行党委理论学习中心组（扩大）专题报告会，传达学习全国两会精神。校党委书记方守恩等校党委理论学习中心组成员，全校中层干部和民主党派教师代表等300余人出席报告会。报告会由校党委副书记吴广明主持。
+</text> 
+  <image src="https://news.tongji.edu.cn/__local/F/F8/3C/33880B185B787C0FC7886972739_F109E088_1D7B9.jpg"></image>
+  <image src="https://news.tongji.edu.cn/__local/F/6A/77/2FC7FAFBD1262177ED92DCF6C7D_4C12BDA4_B9E2.jpg"></image>
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;会上，全国人大代表、材料科学与工程学院张雄教授，全国政协委员、民盟上海市委副主委、副校长顾祥林，分别传达了十三届全国人大四次会议和全国政协十三届四次会议精神，报告了自身履职情况，还分享了会场内外的一些精彩花絮。张雄着重介绍了政府工作报告、全国人大常委会工作报告中的热议词，两会上通过的《国民经济和社会发展第十四个五年规划和2035年远景目标纲要》，以及完善香港选举制度等情况。顾祥林着重介绍了讨论政府工作报告以及国民经济和社会发展第十四个五年规划和2035年远景目标纲要草案的体会，讲述了习近平总书记参加全国政协医药卫生界、教育界联组会讨论的情况，谈了切身感受。
+</text> 
+<image src="https://news.tongji.edu.cn/__local/0/E5/AA/0D8BB40A9E146C6E96F2DE192C6_0284AA7B_10716.jpg"></image>
+<image src="https://news.tongji.edu.cn/__local/4/BB/73/AE126EE6E5346D3FEC52E0E0B6A_05DA8A25_D062.jpg"></image>
+<text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;吴广明在主持报告会时指出，深入学习全国两会精神是我们当前的一项重要政治任务。各单位要通过中心组学习、教职工政治理论学习、支部“三会一课”等多种方式，深入领会两会精神实质和内涵，深刻领会习近平总书记重要讲话精神，深刻领会今年政府工作报告关于经济社会发展、高等教育的重要部署。我们要把学习全国两会精神同学校2021年度工作要点结合起来，推动学校在“十四五”启动之年开好局、起好步，同开展党史学习教育紧密结合起来，真正把师生党员的奋斗精神全都焕发出来，以优异成绩庆祝中国共产党成立一百周年。     （文/新闻中心   图/周游  视频/宋宇星）</text>
+</view>
+</scroll-view>

@@ -1,0 +1,54 @@
+<!--pages/news/news.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济要闻</view>
+<swiper indicator-dots="true"  class="banner">
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/news1/news1">
+  <view class="tushezhi">
+  <image src="https://news.tongji.edu.cn/__local/1/94/8A/28C3AE3C72CE6DCD069947D7A35_FEA44E7E_DFAF.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+</view>
+<view class="word1"  hover-class="wordd" > <view class="biaoti">同济召开党史学习教育动员大会</view>
+3月16日下午，同济大学召开党史学习教育动员大会，对学校开展党史学习教育进行全面动员部署。校党委书记、校党史学习教育领导小组组长方守恩作动员讲话，校党委常务副书记冯身洪主持大会。校领导班子成员，党委委员、纪委委员和全体中层干部出席大会。
+</view>
+</navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/news2/news2">
+  <view class="tushezhi">
+  <image src="https://news.tongji.edu.cn/__local/F/F8/3C/33880B185B787C0FC7886972739_F109E088_1D7B9.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">同济举行专题报告会，传达学习全国两会精神</view>
+  3月16日下午，同济大学举行党委理论学习中心组（扩大）专题报告会，传达学习全国两会精神。校党委书记方守恩等校党委理论学习中心组成员，全校中层干部和民主党派教师代表等300余人出席报告会。报告会由校党委副书记吴广明主持。
+</view>
+</navigator>
+</swiper-item>
+
+<swiper-item style="width: 750rpx; height: 446rpx; display: block; box-sizing: border-box">
+  <navigator url="/pages/news3/news3">
+  <view class="tushezhi">
+  <image src="https://news.tongji.edu.cn/__local/4/BB/73/AE126EE6E5346D3FEC52E0E0B6A_05DA8A25_D062.jpg" 
+class="tu2"
+mode="aspectFill">
+</image>
+  </view>
+<view class="word1" hover-class="wordd" >
+  <view class="biaoti">国家乡村振兴局来函</view>
+  感谢同济大学为脱贫攻坚作出的突出贡献，希望共同为全面推进乡村振兴接续奋斗3月15日，我校收到国家乡村振兴局发来的感谢信，来函感谢我校为如期完成脱贫攻坚目标任务作出的突出贡献，希望我校为全面推进乡村振兴、巩固拓展脱贫攻坚成果接续奋斗。
+信中这样写道，2月25日，习近平总书记在全国脱贫攻坚总结表彰大会上庄严宣告，经过全党全国各族人民共同努力，我国脱贫攻坚战取得了全面胜利，完成了消除绝对贫困的艰巨任务，创造了又一个彪炳史册的人间奇迹。脱贫攻坚战的胜利，离不开同济大学的支持帮助，凝聚着同济大学干部职工的心血汗水。8年来，同济大学认真贯彻落实党中央脱贫攻坚决策部署，举全校之力支持脱贫攻坚，尽锐出战、担当作为，领导同志身体力行，各级干部倾力奉献，广大教职工热情参与，为如期完成脱贫攻坚目标任务作出了突出贡献。向同济大学表示衷心感谢并致以崇高敬意！
+</view>
+  </navigator>
+</swiper-item>
+
+</swiper>
+
+<video src="https://news.tongji.edu.cn/__local/5/81/6C/20F8675AD858C1900BBE7791112_FE2694F8_31CEEBD.mp4?e=.mp4"
+class="video1" style="position: relative; left: 49rpx; top: 52rpx; width: 654rpx; height: 465rpx; display: flex; box-sizing: border-box"></video>

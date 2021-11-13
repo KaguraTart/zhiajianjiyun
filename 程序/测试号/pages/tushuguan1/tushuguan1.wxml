@@ -1,0 +1,21 @@
+
+<!--pages/news1/news1.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+<view class="x1">同济图书馆</view>
+
+<scroll-view class="gun" scroll-y="ture">
+  <view class="tt"><text class="t1"></text>常态化疫情防控期同济大学图书馆开放须知
+  </view>
+<view class="t1">
+  <text decode="{{true}}" space="{{true}}">&nbsp;&nbsp;为满足在校师生的教学、科研、学习需求，图书馆自2020年9月8日起全面恢复正常开放时间，即四平路校区图书馆、嘉定校区图书馆、沪北校区图书馆每天开放时间为7:30—22:30，德文图书馆每天开放时间为8:00—22:00。9月14日起沪西校区图书馆正式开馆，每天开放时间为7:30—22:30。
+    &nbsp;&nbsp;在常态化疫情防控期间，为避免人员聚集，图书馆自9月21日起在实行入馆人数总量控制的前提下，师生通过体温检测后刷卡或人脸识别入馆，无需预约。离馆须刷卡。读者可关注图书馆主页等实时了解各校区入馆情况，错峰入馆。
+    &nbsp;&nbsp;读者在馆期间，请自觉保持“安全距离”。图书阅览后请放至规定位置，由工作人员处理后上架。
+    &nbsp;&nbsp;图书馆继续为广大师生提供各项线上业务和咨询服务。读者可登录图书馆书目检索系统在线委托借书。也可通过各校区图书馆咨询台电话（四平路校区：65983994；嘉定校区：69589455；沪北校区：66283860；德文图书馆：65985179；沪西校区图书馆：medlib@lib.tongji.edu.cn）预约“找书服务”。纸本图书找到后，图书馆将电话通知读者，读者即可来馆办理借书手续。在馆读者尽量错峰使用自助设备，人工服务正常提供。
+    &nbsp;&nbsp;如遇突发情况时请及时联系图书馆工作人员。
+    &nbsp;&nbsp;图书馆原则上不举办大型线下聚集性读者活动，读者可通过各种线上途径参与图书馆活动。
+    &nbsp;&nbsp;更多信息请关注图书馆主页及微信公众号。
+</text> 
+  <image src="https://www.lib.tongji.edu.cn/themes/357/userfiles/images/2020/9/8/source/1599531018_html_m98a693b.jpg"></image>
+</view>
+</scroll-view>

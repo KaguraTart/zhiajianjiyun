@@ -1,0 +1,30 @@
+<!--index.wxml-->
+<image class="img1" src='https://i0.hdslb.com/bfs/article/0c1f90e95c714a5caee82d914c1047e7ceffdd8c.jpg@1320w_2346h.webp' >
+  </image>
+
+<view class="lc" style="width: 750rpx; height: 833rpx; display: block; box-sizing: border-box">
+
+<view >
+  <navigator url="/pages/tushuguan/tushuguan" class="tushuguan" style="position: relative; left: 352rpx; top: 500rpx; width: 197rpx; height: 218rpx; display: block; box-sizing: border-box">
+    <view >  
+    </view>
+  </navigator>
+</view>
+</view>
+
+<view class="laba">
+   <navigator url='/pages/news/news'>
+      <image  src="https://i0.hdslb.com/bfs/article/fbbd38de46cce38de27e1111bf0b6b7a065e0d56.png@1320w_1320h.webp" ></image>
+ </navigator>
+ </view>
+<view class="laba2">
+  <navigator url='/pages/rili/rili'>
+      <image  src="https://i0.hdslb.com/bfs/article/ee253ec87d75b4746ae46e171929f042bc6ea081.png@1320w_1320h.webp" ></image>
+ </navigator>
+</view>
+
+<view class="laba3">
+  <navigator url='/pages/weizhi/weizhi'>
+      <image  src="https://i0.hdslb.com/bfs/article/6d7c0ed9d955669c2c7c08cb9627d63ab319d177.png@1320w_1320h.webp" ></image>
+ </navigator>
+</view>
